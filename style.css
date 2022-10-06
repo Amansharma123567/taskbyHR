@@ -1,0 +1,67 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.content {
+    position: fixed;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 125px;
+}
+
+#xyz {
+    text-decoration: none;
+}
+
+.mybtn {
+    margin-left: 380px;
+}
+
+#border {
+    color: white;
+    border: none;
+    background: transparent;
+}
+
+#order {
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+    background: transparent;
+}
+
+#myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: white;
+    color: black;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 55px;
+}
+
+#mybutton {
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    padding: 10px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 55px;
+    margin-bottom: 5px;
+}
+
+#myBtn:hover {
+    background: black;
+    color: white;
+}
